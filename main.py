@@ -9,7 +9,7 @@ from sklearn.neighbors import NearestNeighbors
 
 # Indicamos título y descripción de la API
 app = FastAPI(title='Proyecto individual 1: Recomendacion de peliculas',
-            description='Machine Learning Operations (MLOps)')
+            description='Machine Learning Operations (MLOps) by: Guillermo Del Rio')
 
 
 # Global variables
