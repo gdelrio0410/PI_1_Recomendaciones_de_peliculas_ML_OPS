@@ -128,6 +128,14 @@
 </p>
 
 
+## **Links**
++ [despliegue de la aplicación (Render)](https://pi-recomendacione-peliculas-api-guillermo.onrender.com/docs)
+<br/>
++ [Main GitHub](https://github.com/gdelrio0410)
+<br/>
++ [Video (Youtube)]()
+<br/>
+
 
 ## **Fuente de datos**
 
