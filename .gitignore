@@ -1,7 +1,5 @@
-/venv
-/venv
-venv
-venv/
+env
+
 
 dataset
 movies_transformado.csv
