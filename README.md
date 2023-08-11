@@ -49,7 +49,7 @@
 
 
 ## Pasos del proyecto 📚
-### 1. Extracción, Transformación, Carga ( [ ETL ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/main/ETL.ipynb))
+### 1. Extracción, Transformación, Carga ( [ ETL ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/master/ETL.ipynb))
 
 <p align="justify">
 
@@ -59,7 +59,7 @@
 
 
 
-### 2. Creacion de funciones( [ Funciones  ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/main/funciones.ipynb))
+### 2. Creacion de funciones( [ Funciones  ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/master/funciones.ipynb))
 
 <p align="justify">
   En esta seccion se crearan 6 funciones para los endpoints que se consumirán en la API, las funciones son:
@@ -81,7 +81,7 @@
 
 
 
-### 4. Implementación de API´s ( [ Main ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/main/main.py))
+### 4. Implementación de API´s ( [ Main ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/master/main.py))
 
 
 <p align="justify">
@@ -94,7 +94,7 @@
 
 
 
-### 3. Análisis Exploratorio de Datos( [ EDA ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/main/EDA.ipynb))
+### 3. Análisis Exploratorio de Datos( [ EDA ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/master/EDA.ipynb))
 
 <p align="justify">
   En esta etapa se desarrollara un analizis exploratorio y se visualizaran los datos, esto nos ayudara a entender de una mejor manera el modo en que los datos estan relacionados entre ellos y dandonos la informacion crucial que será de utilidad en las próximas etapas del proyecto.
@@ -102,7 +102,7 @@
 </p>
 
 
-### 5. Desarrollo del Modelo de Machine Learning ( [ ML ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/main/ML.ipynb))
+### 5. Desarrollo del Modelo de Machine Learning ( [ ML ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/master/ML.ipynb))
 
 
 <p align="justify">
@@ -111,7 +111,7 @@
 </p>
 
 
-### 6. Implemantacion del ML al archivo main ( [ Main ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/main/main.py))
+### 6. Implemantacion del ML al archivo main ( [ Main ](https://github.com/gdelrio0410/PI_1_Recomendaciones_de_peliculas_ML_OPS/blob/master/main.py))
 
 
 <p align="justify">
@@ -119,7 +119,7 @@
 
 </p>
 
-### 7. Deployment
+### 7. Deployment ( [ Render ](https://pi-recomendacione-peliculas-api-guillermo.onrender.com/docs))
 
 
 <p align="justify">
