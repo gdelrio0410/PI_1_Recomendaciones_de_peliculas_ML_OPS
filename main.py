@@ -87,7 +87,7 @@ def franquicia( Franquicia: str ):
     total = valor_encontrado['return'].sum()
     promedio = valor_encontrado['return'].mean()
 
-    return {f"Franquicia: {Franquicia}\nCantidad de Películas: {series}\nGanancias Totales: {total}\nPromedio de las Ganancias: {promedio}"}
+    return {f"Franquicia: {Franquicia} Cantidad de Películas: {series} Ganancias Totales: {total} Promedio de las Ganancias: {promedio}"}
 
 
 # Función de películas por país
